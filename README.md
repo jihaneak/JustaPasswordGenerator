@@ -1,2 +1,3 @@
 # JustaPasswordGenerator
-![image](https://github.com/user-attachments/assets/cdd07282-7f75-497c-ae92-00eef26f68a9)
+![image](https://github.com/user-attachments/assets/10386da3-d8fc-4fd4-8ce9-6aedb4d49d04)
+
